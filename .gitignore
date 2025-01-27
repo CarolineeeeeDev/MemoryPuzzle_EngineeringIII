@@ -1,0 +1,20 @@
+#  Unreal Engine build folder
+**/Binaries/*
+**/Build/*
+**/DerivedDataCache/*
+**/Intermediate/*
+**/Saved/*
+**/Demos/*
+
+# Ignore Visual Studio files
+.vs/
+.vscode/
+.idea/
+
+# Ignore Mac-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore Thumbnails
+Thumbs.db
